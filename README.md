@@ -60,12 +60,19 @@ Copy code
 translator_web_extension/
 │
 ├── manifest.json ← پیکربندی افزونه (نسخه Manifest V3)
+
 ├── popup.html ← رابط کاربری افزونه
+
 ├── popup.js ← منطق دکمه‌ها (ترجمه و راست‌چین)
+
 ├── content-rtl-toggle.js ← اسکریپت راست‌چین کردن صفحه
+
 ├── content-translate.js ← (اختیاری) ترجمه مستقیم از طریق اسکریپت
+
 ├── style.css ← استایل ظاهری پنجره افزونه
+
 ├── background.js ← (در صورت نیاز برای ترجمه تب‌ها)
+
 └── icons/ ← آیکون‌های افزونه
 
 yaml
@@ -86,7 +93,7 @@ Copy code
 
 **نام افزونه:** Translator Web  
 **نسخه:** 1.0  
-**توسعه‌دهنده:** شما ❤️  
+**توسعه‌دهنده:** (https://github.com/aliasghar-rezazadeh) 
 
 ---
 
